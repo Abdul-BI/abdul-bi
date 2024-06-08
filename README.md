@@ -39,7 +39,7 @@ Feel free to reach out if you have any questions or if you're interested in coll
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdul-bi&show_icons=true&theme=radical)
 
 
 
