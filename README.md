@@ -22,7 +22,7 @@ Here are some of the projects I’ve worked on:
 ![Power BI Dashboard](./Power-BI-Dashboard-Snapshot.png)
 
 ### 🐍 Python Data Analysis
-![Python Script](./python- dashboard.png)
+![Python Script](./python-dashboard.png)
 
 ### 📈 Excel Data Analysis
 ![Excel Data Analysis](./Data-analysis.png)
