@@ -21,28 +21,27 @@ Here are some of the projects I’ve worked on:
 ### 📊 Power BI Call Center Dashboards
 ![Power BI Dashboard](./Power-BI-Dashboard-Snapshot.png)
 
-### 🐍 Python Automation Scripts
-![Python Script](https://your-image-url2.gif)
+### 🐍 Python Data Analysis
+![Python Script](./python- dashboard.png)
 
 ### 📈 Excel Data Analysis
-![Excel Data Analysis](https://your-image-url3.gif)
+![Excel Data Analysis](./Data-analysis.png)
+
+### 📈 Excel Data Clearning
+![Excel Data Clearning](./data-cleaning.png)
 
 ## 📫 Get in Touch
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/abdulbyahatti)
+- [Email](mailto:excelfunclub@gmail.com)
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 Thank you for visiting my profile! I look forward to connecting with you. 😊
-
-![Footer Image](https://your-image-url4.gif)
 
